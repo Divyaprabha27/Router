@@ -1,0 +1,8 @@
+.courseDetails {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.courseDetails a {
+    text-decoration: none;
+}

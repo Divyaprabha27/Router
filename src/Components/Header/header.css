@@ -1,0 +1,19 @@
+.navbar {
+    margin: 0 auto !important;
+    padding: 45px 0 !important; 
+    display: table !important;
+}
+.navbar .nav-link {
+    border: 1px solid;
+    padding: 15px 25px !important;
+    margin-right: 15px;
+}
+.navbar-nav .active {
+    background-image: linear-gradient(to right, #18A3A1 , #6ED062);;
+    color: #ffffff !important;
+}
+@media screen and (max-width: 992px) {
+    .collapse:not(.show) {
+        display: block !important;
+    }
+}
